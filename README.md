@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Who am I? What am I doing? Why am I here? The answers to all these questions and more -> https://jessedorsey.com/now
+
 <!--
 **jessedorsey/jessedorsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
